@@ -17,4 +17,4 @@
 - Back
 임 수
 ```
-<img src="/profile/zep.png" width="400" height="300" align="left"/>
+<img src="/profile/zep.png" width="300" height="200" align="left"/>
