@@ -1,4 +1,20 @@
 # Team-Chilin
+<img src="/profile/chilinProfile.png" width="350" height="350" align="right"/>
 
-<img src="/profile/chilinProfile.png" width="300" height="300" />
+### Member
 
+```js
+PM
+임승리
+
+UX/UI
+이유경 
+
+App 
+홍주완
+임해찬
+
+Back
+임 수
+
+```
