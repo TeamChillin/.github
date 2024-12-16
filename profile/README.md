@@ -17,4 +17,4 @@ App
 Back
 임 수
 ```
-<img src="/profile/zep.png" width="300" height="100" align="left"/>
+<img src="/profile/zep.png" width="300" height="200" align="left"/>
