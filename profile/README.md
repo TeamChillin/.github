@@ -1,5 +1,5 @@
 # Team-Chilin
-<img src="/profile/chilinProfile.png" width="600" height="600" align="right"/>
+<img src="/profile/chilinProfile.png" width="550" height="550" align="right"/>
 
 ### Member
 
