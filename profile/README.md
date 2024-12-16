@@ -4,17 +4,17 @@
 ### Member
 
 ```js
-PM
+- PM
 임승리
 
-UX/UI
+- UX/UI
 이유경 
 
-App 
+- App 
 홍주완
 임해찬
 
-Back
+- Back
 임 수
 ```
 <img src="/profile/zep.png" width="300" height="200" align="left"/>
