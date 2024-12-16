@@ -1,5 +1,5 @@
 # Team-Chilin
-<img src="/profile/chilinProfile.png" width="500" height="500" align="right"/>
+<img src="/profile/chilinProfile.png" width="600" height="600" align="right"/>
 
 ### Member
 
@@ -17,4 +17,4 @@
 - Back
 임 수
 ```
-<img src="/profile/zep.png" width="300" height="200" align="left"/>
+<img src="/profile/zep.png" width="400" height="300" align="left"/>
