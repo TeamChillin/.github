@@ -16,13 +16,5 @@ App
 
 Back
 임 수
-
-
-
-
-
-
-
-
-
 ```
+<img src="/profile/zep.png" width="300" height="100" align="left"/>
