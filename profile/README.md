@@ -7,14 +7,12 @@
 - PM
 임승리
 
-- UX/UI
-이유경 
-
-- App 
-홍주완
+- Client
 임해찬
+이준석
 
 - Back
 임 수
+
 ```
 <img src="/profile/zep.png" width="300" height="200" align="left"/>
