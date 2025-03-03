@@ -9,7 +9,6 @@
 
 - Client
 임해찬
-이준석
 
 - Server
 임 수
